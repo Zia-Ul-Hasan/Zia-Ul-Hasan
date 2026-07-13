@@ -1,75 +1,166 @@
 <h1 align="center">Hi 👋, I'm Zia Ul Hassan</h1>
-
-<h3 align="center">
-Junior Data Analyst • Aspiring Data Engineer • Data Science Enthusiast
-</h3>
+<h3 align="center">Junior Data Analyst | Aspiring Data Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
-Building Data Pipelines • Analytics Solutions • Machine Learning Applications
+Building modern data pipelines, analytics dashboards, and machine learning solutions.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-### ☁️ Data Engineering
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure,aws,postgres,mysql,sqlite,git,github,docker" />
-</p>
-
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=databricks,snowflake,dbt,airflow,powerbi,tableau,sqlserver,n8n" />
-</p>
-
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=adf,adls" />
-</p>
+- 🎓 BS Computer Science Graduate
+- 💼 Junior Data Analyst
+- 📊 Passionate about Data Engineering, Analytics & Machine Learning
+- 🌱 Currently learning **Azure Data Engineering, dbt, Apache Airflow, Docker, Spark & Modern Data Stack**
+- 📍 Islamabad, Pakistan
+- ⚡ Interests: Data Warehousing • ETL • Automation • Dashboards • AI
 
 ---
 
-### 📊 Analytics & Machine Learning
+# 🛠 Tech Stack
+
+## ☁️ Data Engineering
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<img src="https://skillicons.dev/icons?i=azure" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=databricks" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dbt" height="48"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws" height="48"/>
+
 </p>
 
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,excel" />
-</p>
+**Azure Services**
+
+- Azure Data Factory (ADF)
+- Azure Data Lake Storage (ADLS Gen2)
+- Azure Databricks
 
 ---
 
-### 💻 Languages
+## 📊 Data Analytics & BI
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" height="48"/>
+
 </p>
+
+- Power BI
+- Tableau
+- Excel
+- Data Modeling
+- ETL
+- Data Warehousing
 
 ---
 
-### 🗄️ Databases
+## 🗄 Databases
 
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,sqlserver" />
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48"/>
+
 </p>
+
+- PostgreSQL
+- MySQL
+- SQLite
+- SQL Server (SSMS)
+- Oracle SQL Developer
+- Snowflake SQL
 
 ---
 
-### 🛠 Development
+## 🤖 Automation
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio,unreal,vscode" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" height="48"/>
+
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin" />
+
+</p>
+
+---
+
+## 🧠 Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</p>
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- XGBoost
+- Random Forest
+- Logistic Regression
+
+---
+
+## 📱 Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://skillicons.dev/icons?i=unreal" />
+
+</p>
+
+- Android Studio
+- Unreal Engine
+- Git
+- GitHub
+
+---
+
+# 📂 Featured Projects
+
+### 📈 Profit Leakage Dashboard
+SQL + Power BI dashboard for identifying revenue leakage through interactive KPIs and drill-down reports.
+
+---
+
+### 🤖 Customer Churn Prediction
+Machine Learning project using Logistic Regression, Random Forest and XGBoost on the IBM Telco dataset.
+
+---
+
+### 🔍 Semantic Search Engine
+Sentence Transformers + Streamlit semantic search application.
+
+---
+
+### 🤟 Signify
+Offline Android application that converts sign language into speech using MediaPipe and TensorFlow Lite.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
@@ -83,22 +174,22 @@ Building Data Pipelines • Analytics Solutions • Machine Learning Application
 
 ---
 
-## 📊 Profile Summary
+# 🌍 Connect With Me
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 📫 Connect with Me
-
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
+Always learning • Always building 🚀
 </p>
